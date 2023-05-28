@@ -31,7 +31,7 @@
 	--theme-blog-post-header-width: 1200px;
 
 	/* Theme Fonts */
-	--theme-font-family-serif: 'Roboto Serif', Georgia, Cambria, 'Times New Roman',
+	--theme-font-family-serif: 'Roboto Serif','Noto Serif SC', Georgia, Cambria, 'Times New Roman',
 		Times, serif;
 	--theme-font-family-sans: 'Lato', -apple-system, BlinkMacSystemFont,
 		sans-serif;

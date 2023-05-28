@@ -12,5 +12,11 @@
 		"build": "astro build",
 		"preview": "astro preview",
 		"format": "npx prettier -w ."
+	},
+	"dependencies": {
+		"@fontsource/noto-sans-sc": "^5.0.1",
+		"@fontsource/noto-sans-tc": "^5.0.1",
+		"@fontsource/noto-serif-sc": "^5.0.1",
+		"@fontsource/noto-serif-tc": "^5.0.1"
 	}
 }
